@@ -104,7 +104,7 @@ alb_dns_name = simpletimeservice-alb-xxxxxxx.elb.amazonaws.com
 Visit:
 http://<alb_dns_name>/time
 
- **Security & Best Practices**
+ **Security & Best Practices*
 1) Application runs as non-root inside Docker
 
 2) Secrets are NOT committed to the repository
